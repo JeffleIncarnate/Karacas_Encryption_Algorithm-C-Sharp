@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\bin\Debug\net6.0\Karaca's Encryption Algorithm.exe
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\bin\Debug\net6.0\Karaca's Encryption Algorithm.deps.json
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\bin\Debug\net6.0\Karaca's Encryption Algorithm.runtimeconfig.json
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\bin\Debug\net6.0\Karaca's Encryption Algorithm.dll
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\bin\Debug\net6.0\Karaca's Encryption Algorithm.pdb
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\Karaca's Encryption Algorithm.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\Karaca's Encryption Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\Karaca's Encryption Algorithm.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\Karaca's Encryption Algorithm.AssemblyInfo.cs
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\Karaca's Encryption Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\Karaca's Encryption Algorithm.dll
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\refint\Karaca's Encryption Algorithm.dll
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\Karaca's Encryption Algorithm.pdb
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\Karaca's Encryption Algorithm.genruntimeconfig.cache
+C:\Users\hp\Documents\Code Files\Weekly Challenges\Karaca's Encryption Algorithm\obj\Debug\net6.0\ref\Karaca's Encryption Algorithm.dll
